@@ -1,0 +1,28 @@
+<svg id="Burgerpoints_flip" data-name="Burgerpoints flip" xmlns="http://www.w3.org/2000/svg" width="350" height="409" viewBox="0 0 350 409">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 0.96px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M38,269h1"/>
+  <path class="cls-1" d="M38,215h1"/>
+  <path class="cls-1" d="M38,134.178h1"/>
+  <path class="cls-1" d="M38,80h1"/>
+  <path class="cls-1" d="M119,80h1"/>
+  <path class="cls-1" d="M119,134.178h1"/>
+  <path class="cls-1" d="M119,188h1"/>
+  <path class="cls-1" d="M119,323h1"/>
+  <path class="cls-1" d="M200,323h1"/>
+  <path class="cls-1" d="M281,323h1"/>
+  <path class="cls-1" d="M200,269h1"/>
+  <path class="cls-1" d="M281,269h1"/>
+  <path class="cls-1" d="M200,188h1"/>
+  <path class="cls-1" d="M200,80h1"/>
+  <path class="cls-1" d="M281,161h1"/>
+  <path class="cls-1" d="M281,215h1"/>
+</svg>
